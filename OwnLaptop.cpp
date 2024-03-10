@@ -1,8 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 int main() 
-{
-	double a, b;
+{   double a, b;
 	char c;
 	cin >> a >> b >> c;
 	
